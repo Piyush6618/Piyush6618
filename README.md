@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
-<h3 align="center">I am a highly motivated first year B-tech student who is incredibly enthusiastic about the future of Fullstack Software Development.</h3>
+<h3 align="center">
+B.Tech Student in Full-Stack Software Development, driven to engineer innovative software, solve complex challenges, and shape the future of technology...</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush6618" alt="piyush6618" /></a> </p>
 
